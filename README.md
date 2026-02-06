@@ -8,14 +8,6 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔧 Fokus di **Backend, Automation, Web Scraping**
-- 🤖 Berpengalaman dengan **Node.js, Puppeteer, PHP, API**
-- 🛠️ Sering bikin tool untuk **otomatisasi & efisiensi**
-- 🎯 Target: clean code, scalable system, real impact
-
----
-
 ### 🚀 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
@@ -24,15 +16,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 </p>
-
----
-
-### 🧠 Skills Highlight
-- ✔️ Web Automation & Bot Development  
-- ✔️ REST API Integration  
-- ✔️ Cloudflare & Anti-Bot Analysis  
-- ✔️ Server-Side Logic & Optimization  
-- ✔️ Debugging & Reverse Logic
 
 ---
 
@@ -57,9 +40,8 @@
 ---
 
 ### 📫 Contact Me
-- 💼 Open for **Freelance / Remote / Full-Time**
 - 📧 Email: zhenxwanx@gmail.com
-- 💬 Telegram / @amidbbra
+- 💬 Telegram / t.me/MidbotBeetoxix | t.me/cybernotfound
 
 ---
 
