@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=googlechrome&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://shields.io"/>
 </p>
 
 ---
